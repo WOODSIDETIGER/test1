@@ -1,0 +1,25 @@
+
+.resume-intro {
+  font-style: italic;
+  color: #666;
+}
+
+.resumelist {
+  list-style-type: square;
+}
+
+.logo_2 {
+  max-width: 150px;
+  height: auto;
+  display: block;
+  margin-top: 20px;
+}
+
+#test {
+  margin-top: 40px;
+  padding-top: 20px;
+  border-top: 1px solid #ddd;
+  text-align: center;
+  font-size: 0.9em;
+  color: #888;
+}
